@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 24 Jul 2024 03:50:13 +0000
+Source: hello
+Binary: hello
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.10-2ubuntu5
+Distribution: jammy
+Urgency: low
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: me-cas-01 <cas-user001@example.com>
+Description:
+ hello      - example package based on GNU hello
+Changes:
+ hello (2.10-2ubuntu5) jammy; urgency=low
+ .
+   * Added testing.sh and modified postinst
+Checksums-Sha1:
+ 6870c1caf23ddba138b9821e20dd6ff3d5edec25 27524 hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
+ b44653d37efc66d4dd8d98f63bcd2d03c9fbc892 6124 hello_2.10-2ubuntu5_amd64.buildinfo
+ 0eddf396b6cfc16f5d6e63c510af599db153c127 53464 hello_2.10-2ubuntu5_amd64.deb
+Checksums-Sha256:
+ 16a9ee7472ccaac1afba4f4f202419e2a82d1c9c8280a4d0aa6186c1c6599444 27524 hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
+ c8c341e3b017b149b043e48908ad63949bdd3f1e64acbeeddbe38ce141942c4e 6124 hello_2.10-2ubuntu5_amd64.buildinfo
+ 7e456e27806cc1fb727cac7ddaa2bef29db02e8abc1bde9b4ab451f3b87fcfee 53464 hello_2.10-2ubuntu5_amd64.deb
+Files:
+ ffbbebc4610c2344f5a3fc35bc9ca40e 27524 debug optional hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
+ 24fe9e78141d5026319c3a727096fd89 6124 devel optional hello_2.10-2ubuntu5_amd64.buildinfo
+ 08d9ff75bb152e428efd54169ca446eb 53464 devel optional hello_2.10-2ubuntu5_amd64.deb
+Original-Maintainer: Santiago Vila <sanvila@debian.org>
