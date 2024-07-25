@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Thu, 25 Jul 2024 06:22:30 +0000
+Source: hello
+Binary: hello
+Built-For-Profiles: noudeb
+Architecture: source amd64
+Version: 2.10-2ubuntu6
+Distribution: jammy
+Urgency: low
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: yuchen <fairytail871202@gmail.com>
+Description:
+ hello      - example package based on GNU hello
+Changes:
+ hello (2.10-2ubuntu6) jammy; urgency=low
+ .
+   * Include testing.sh in /usr/bin
+Checksums-Sha1:
+ 03c561c7848313b8bb5367a90ca17eacfc190ca1 927 hello_2.10-2ubuntu6.dsc
+ 6e19a087ea0515f3b605307894ed98bf0f05ae0b 7568 hello_2.10-2ubuntu6.debian.tar.xz
+ 8a1cb390e8b3f50999f46fdd05ba2e98ab8209de 27520 hello-dbgsym_2.10-2ubuntu6_amd64.ddeb
+ 9888cd35c8617288d5405c295da81ab4c669e6a2 6357 hello_2.10-2ubuntu6_amd64.buildinfo
+ a202299c3444e788cd131b3a3a551c0dd710bacf 53616 hello_2.10-2ubuntu6_amd64.deb
+Checksums-Sha256:
+ 658214891018c27121aa25eb658256c7f933fc7581c4c6a873ae806a9864e905 927 hello_2.10-2ubuntu6.dsc
+ f58a91fa0d4a9e8014595144003320c04f5c804880a32832db56c7f29395983a 7568 hello_2.10-2ubuntu6.debian.tar.xz
+ 321d5fc50f0048b4b96352426b2b9bfc8b18cc468e7ef3c2033674402ffdb1c9 27520 hello-dbgsym_2.10-2ubuntu6_amd64.ddeb
+ e1511287b13e8dc4156a2fac30e4e15fd265dcd7ec095746aab81391fea42997 6357 hello_2.10-2ubuntu6_amd64.buildinfo
+ 361e8c5b0b2b83be0def03afe6917683ad5d14c419c392e642d1ac58608840b2 53616 hello_2.10-2ubuntu6_amd64.deb
+Files:
+ 7999214d77f5af79af2cca53ac177690 927 devel optional hello_2.10-2ubuntu6.dsc
+ 0b504a8eeb7495c650e39f32d78d46d1 7568 devel optional hello_2.10-2ubuntu6.debian.tar.xz
+ 3f91c2ebafa924d14a61a5934fe5a3bd 27520 debug optional hello-dbgsym_2.10-2ubuntu6_amd64.ddeb
+ 08915012f8030c369dad224f432f43fd 6357 devel optional hello_2.10-2ubuntu6_amd64.buildinfo
+ ff1b389a41663b2691fc78912b42cf60 53616 devel optional hello_2.10-2ubuntu6_amd64.deb
+Original-Maintainer: Santiago Vila <sanvila@debian.org>

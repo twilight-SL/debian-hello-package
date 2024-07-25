@@ -8,10 +8,5 @@ override_dh_auto_clean:
 override_dh_installdocs:
 	dh_installdocs NEWS
 
-override_dh_install:
-        dh_install
-        # Copy the testing.sh to /usr/local/bin and make it executable
-        install -D -m 755 testing.sh $(DESTDIR)/usr/local/bin/testing.sh
-
 override_dh_builddeb:
 	dh_builddeb -- -Zzstd

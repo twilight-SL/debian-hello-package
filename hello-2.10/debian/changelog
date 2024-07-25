@@ -1,3 +1,9 @@
+hello (2.10-2ubuntu6) jammy; urgency=low
+
+  * Include testing.sh in /usr/bin
+
+ -- yuchen <fairytail871202@gmail.com>  Thu, 25 Jul 2024 06:22:30 +0000
+
 hello (2.10-2ubuntu5) jammy; urgency=low
 
   * Added testing.sh and modified postinst

@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 25 Jul 2024 06:22:30 +0000
+Source: hello
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 2.10-2ubuntu6
+Distribution: jammy
+Urgency: low
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: yuchen <fairytail871202@gmail.com>
+Changes:
+ hello (2.10-2ubuntu6) jammy; urgency=low
+ .
+   * Include testing.sh in /usr/bin
+Checksums-Sha1:
+ 92d9555b879016271a35e8e9d1ac1fc938b0a80d 1672 hello_2.10-2ubuntu6.dsc
+ f7bebf6f9c62a2295e889f66e05ce9bfaed9ace3 725946 hello_2.10.orig.tar.gz
+ 9ef41dce6b2b658e6cbcf1779c5fbc3d30006087 7568 hello_2.10-2ubuntu6.debian.tar.xz
+ 715f35539470931fa70ec8a87fe061a71951661c 6548 hello_2.10-2ubuntu6_source.buildinfo
+Checksums-Sha256:
+ 77eda635946acffe0b9973d4d2befffc05a03fc0fffb39aa72fab5e12aad98f1 1672 hello_2.10-2ubuntu6.dsc
+ 31e066137a962676e89f69d1b65382de95a7ef7d914b8cb956f41ea72e0f516b 725946 hello_2.10.orig.tar.gz
+ 959b0a6a2cd7e8cd18b77472fb9a9c430036f8bf4d0016adea4a43a6c563248c 7568 hello_2.10-2ubuntu6.debian.tar.xz
+ 38cfd17b3d7b54f3e0bf74d0b4d42968af8b10321b7d827cf7f7d55435ae108b 6548 hello_2.10-2ubuntu6_source.buildinfo
+Files:
+ bba7a175fb3f91bfd0c8321d9bdf3a33 1672 devel optional hello_2.10-2ubuntu6.dsc
+ 6cd0ffea3884a4e79330338dcc2987d6 725946 devel optional hello_2.10.orig.tar.gz
+ e5a16f013162885ba92e5d8279b259ce 7568 devel optional hello_2.10-2ubuntu6.debian.tar.xz
+ 86058556b0895a26a7a0906988fe4e1b 6548 devel optional hello_2.10-2ubuntu6_source.buildinfo
+Original-Maintainer: Santiago Vila <sanvila@debian.org>
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHOBAEBCgA4FiEEYru2u7pzPJLCN/ui9ISHkpYkaNkFAmah77gaHGZhaXJ5dGFp
+bDg3MTIwMkBnbWFpbC5jb20ACgkQ9ISHkpYkaNnNUQv9F+1HtHEZIgoBqTJj/8tX
+Px9NrXqOcWtHiJCOhnr9scsMFs9gNvDGVauKWUBom7UtMapvu9TM6mNKValHLUyQ
+rfcT4J2DcEmdsC4vhA++FG0kL4Rcs6IGvtvLLVqbIQ416fOlhGLRmZBSXdE9mLoF
+aFOVHEZfliwcqbzV9AwMlJfL6RezVKG72K+Y/pz9OoOEVi9YKEawdoL/RP5ywvub
+GmjDWWKo4vm6FqqzLzyLATYVeLNobmZ1bpolrbDYNM8dVA8ft0ORWHKIFz4jj2BP
+9Qu4IKFXESOHGimPLzGvnpuiGz7kvlBQThqu4dBcuQv4oDPiXts5ELJP4ZDFdePo
+Rnl8esvSkR4yEltFAwn0MjQE6XFqVk0SrWQc/IU5qobgVUGPsbDlek3YvjSFhq6/
+UYtGOfDG54Icdmsd8T7JU1n2hgjVJcZPx/gtWYEWVxZqSSyp6klAyZ/7jnuhetSM
+HP/3TUwl4UxUaJunSs65kr/oLmypqR5QzgA+OeLDfqDD
+=h3b0
+-----END PGP SIGNATURE-----
