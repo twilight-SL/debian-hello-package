@@ -2,7 +2,7 @@ hello (2.10-2ubuntu5) jammy; urgency=low
 
   * Added testing.sh and modified postinst
 
- -- me-cas-01 <cas-user001@example.com>  Wed, 24 Jul 2024 03:50:13 +0000
+ -- yuchen <fairytail871202@gmail.com>  Wed, 24 Jul 2024 03:50:13 +0000
 
 hello (2.10-2ubuntu4) jammy; urgency=medium
 

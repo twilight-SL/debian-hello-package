@@ -3,21 +3,17 @@ Hash: SHA512
 
 Format: 1.0
 Source: hello
-Binary: hello hello-dbgsym
-Architecture: amd64
+Architecture: source
 Version: 2.10-2ubuntu5
 Checksums-Md5:
- ffbbebc4610c2344f5a3fc35bc9ca40e 27524 hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
- 08d9ff75bb152e428efd54169ca446eb 53464 hello_2.10-2ubuntu5_amd64.deb
+ ead741998e20b9e561fd61412b7107e0 1672 hello_2.10-2ubuntu5.dsc
 Checksums-Sha1:
- 6870c1caf23ddba138b9821e20dd6ff3d5edec25 27524 hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
- 0eddf396b6cfc16f5d6e63c510af599db153c127 53464 hello_2.10-2ubuntu5_amd64.deb
+ 4f8c7e113d96bd80d04fdd60723db617a30f24a2 1672 hello_2.10-2ubuntu5.dsc
 Checksums-Sha256:
- 16a9ee7472ccaac1afba4f4f202419e2a82d1c9c8280a4d0aa6186c1c6599444 27524 hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
- 7e456e27806cc1fb727cac7ddaa2bef29db02e8abc1bde9b4ab451f3b87fcfee 53464 hello_2.10-2ubuntu5_amd64.deb
+ cd93fd5e67af3b79abf9a9a24ff635f1d03f2a37fcc9230029df1804b966efce 1672 hello_2.10-2ubuntu5.dsc
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 24 Jul 2024 03:57:45 +0000
+Build-Date: Wed, 24 Jul 2024 06:15:19 +0000
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-programs
@@ -187,15 +183,15 @@ Environment:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEYru2u7pzPJLCN/ui9ISHkpYkaNkFAmaggFAACgkQ9ISHkpYk
-aNm3+AwAuoPVlG6ALoPdSZsesvvrT3O3J0iMcyWOy198ltt+USinCg/rOBHd1KK2
-2hnfjHl3bWvESEW7/DdxDnkCQpTjjsugRk/NYlKbElNuOpJb+r49zenJDvBvTNkn
-rwVJtCtvzsh0IOiLIqXVVFZ3FdHCM0aJ16W7uWefltfv17cwBtEgi96KpJ5ByH+5
-yquWRgi/KHNSKby9004It0YxfBXeFmfWx9lF2b2sLnsM4xOpd/DnVSWvkrDK7JyI
-GrrU6ZasDZsFjofXR6ns/LgIe67m1rrvPULqsPAIVtuCWvyukR7jmWlcWfSFwBXq
-gFsvjxBKoAdKxzig9p09PmQOOsm4fU5KYxB619gzXU19NtYAmMIlxFYbZeMoSuzk
-WbCfBgM4FGLOyI2txr9Evl2g56XvcxKc8iwf69CkQVEcDzQhCPWVIQaoW3sBKpLO
-4kxw7UCwjgJOsgzMrcGV5wEHqBQnjD9qGQ+E/7ZkUtf28IfNnV7whmADfTeMp0E1
-zEKUUF2b
-=OwWl
+iQHOBAEBCgA4FiEEYru2u7pzPJLCN/ui9ISHkpYkaNkFAmagnAsaHGZhaXJ5dGFp
+bDg3MTIwMkBnbWFpbC5jb20ACgkQ9ISHkpYkaNnuzwwAgLbHINYu32SYyJHur7RV
+loDyFXC7C2rzEJhVcNusezYmKqD11LyHWtn/p+pMGqaIyU9ybjtLoPXqItdOhhlb
+q5z8hcXCWSU8qr7YZF9FjEY7SiAsndkNJRyUOh1jVtl2vkxlqOiMosdsB00x/zHg
+5agIGFjdpqPUrevGHNKDbJfyUTEuc/uHKxEF2UUlhksOZmfTZI238MDT68H+mM64
+Vg4UEvb88QPTAK4/BPCvfIDqMVOksGeonl4ujfUnycojyNsrtOtDVGV8EpBu1zPu
+XZS7j0iXVIAONUYCKBGWJUQGYyBBNtPQ5COAa5d0XRE6NH/smssmyJMxB8GDXXOX
+x6WBljbP2t01BMdU76yw4FycW41noDWjHloq4YoKVRg432Yt6QnGXfqwZdoi9DtW
+l7092mxpO8XNZe6DPxZBNDxiOfFMf4/pr2aYTo5fmZaIDQdQznyMWEK7FsyFx/09
+0xyS1XjIBAhzR2Zvu5nuf3qwhfBrx75biATQHCRW9qmP
+=yajK
 -----END PGP SIGNATURE-----

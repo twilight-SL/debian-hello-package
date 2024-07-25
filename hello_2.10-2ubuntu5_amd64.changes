@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Wed, 24 Jul 2024 03:50:13 +0000
 Source: hello
@@ -17,14 +20,29 @@ Changes:
    * Added testing.sh and modified postinst
 Checksums-Sha1:
  6870c1caf23ddba138b9821e20dd6ff3d5edec25 27524 hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
- b44653d37efc66d4dd8d98f63bcd2d03c9fbc892 6124 hello_2.10-2ubuntu5_amd64.buildinfo
+ 946302aeeb955fa5419d4acbf7f6570d30ba61cc 6833 hello_2.10-2ubuntu5_amd64.buildinfo
  0eddf396b6cfc16f5d6e63c510af599db153c127 53464 hello_2.10-2ubuntu5_amd64.deb
 Checksums-Sha256:
  16a9ee7472ccaac1afba4f4f202419e2a82d1c9c8280a4d0aa6186c1c6599444 27524 hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
- c8c341e3b017b149b043e48908ad63949bdd3f1e64acbeeddbe38ce141942c4e 6124 hello_2.10-2ubuntu5_amd64.buildinfo
+ 82bcec97eb5c5588f68a33e3a9d6c02ab63488fa1d175020ed88503b3b1c2e58 6833 hello_2.10-2ubuntu5_amd64.buildinfo
  7e456e27806cc1fb727cac7ddaa2bef29db02e8abc1bde9b4ab451f3b87fcfee 53464 hello_2.10-2ubuntu5_amd64.deb
 Files:
  ffbbebc4610c2344f5a3fc35bc9ca40e 27524 debug optional hello-dbgsym_2.10-2ubuntu5_amd64.ddeb
- 24fe9e78141d5026319c3a727096fd89 6124 devel optional hello_2.10-2ubuntu5_amd64.buildinfo
+ b70bde972c1a6c394d4f9d863b4a5cec 6833 devel optional hello_2.10-2ubuntu5_amd64.buildinfo
  08d9ff75bb152e428efd54169ca446eb 53464 devel optional hello_2.10-2ubuntu5_amd64.deb
 Original-Maintainer: Santiago Vila <sanvila@debian.org>
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEYru2u7pzPJLCN/ui9ISHkpYkaNkFAmaggFUACgkQ9ISHkpYk
+aNncLgwAktgISQFh1wM7lA3k654P+u3sfXSc2XW5fgvroE79oekriE8U0irEwH25
+e4FwJtsEinc8uwXiiHwn+6P0nVf67hb8n3v5lnfoSVcHcsOUaT42l8cqM+k/PXHc
+IX9suq53QUr+cB7tkO7DafWWcUvPn9ZxczwTnJVt/7YHN1sxB4smf4jijx/Nxg2O
+1V1r3Oj7OODZcQUSwSbZdJtPbHYGLuhAJoMldzVGSjmb150wgFCtTHDxmf/av+8+
+eG4940CyQFExY43wBjL4muIV3FMn1t6c7N0yWWi2+WkQFVe69UX/F+6DmsfJ0NK5
+3V+N0WeyIl8d607xSk4di8NbKXxbaYnqO33BRCT3AyNze435ahHN1AwqEk8DWyqf
+TottqySKNxumLQSgaRJZGLzgbTxJUkf65qx4OFC/exsNw89oO3xuYbLlyrpHS9vC
+UNl+gAb6e2DdbpQZ0xRfBGK7Tv7jOXYLm9arHTNhpTxH4lnzGc+76L26H3zdy4PS
+uFJnZthZ
+=fCiK
+-----END PGP SIGNATURE-----

@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 24 Jul 2024 03:50:13 +0000
+Source: hello
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 2.10-2ubuntu5
+Distribution: jammy
+Urgency: low
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: yuchen <fairytail871202@gmail.com>
+Changes:
+ hello (2.10-2ubuntu5) jammy; urgency=low
+ .
+   * Added testing.sh and modified postinst
+Checksums-Sha1:
+ 4f8c7e113d96bd80d04fdd60723db617a30f24a2 1672 hello_2.10-2ubuntu5.dsc
+ f7bebf6f9c62a2295e889f66e05ce9bfaed9ace3 725946 hello_2.10.orig.tar.gz
+ 56f1f96727979ab6595a864d0faa121528321655 7516 hello_2.10-2ubuntu5.debian.tar.xz
+ 4609decfa4059ea89c2c6e2615ba63849e92ed31 6548 hello_2.10-2ubuntu5_source.buildinfo
+Checksums-Sha256:
+ cd93fd5e67af3b79abf9a9a24ff635f1d03f2a37fcc9230029df1804b966efce 1672 hello_2.10-2ubuntu5.dsc
+ 31e066137a962676e89f69d1b65382de95a7ef7d914b8cb956f41ea72e0f516b 725946 hello_2.10.orig.tar.gz
+ 0f0c9a01095773220314ddb02751b89c20f8040a05113611c3f0e7d359dc440f 7516 hello_2.10-2ubuntu5.debian.tar.xz
+ f3294e4612aec56e8fcbc8cd797eca05dd902c010a103a2624aa282a1fe95f07 6548 hello_2.10-2ubuntu5_source.buildinfo
+Files:
+ ead741998e20b9e561fd61412b7107e0 1672 devel optional hello_2.10-2ubuntu5.dsc
+ 6cd0ffea3884a4e79330338dcc2987d6 725946 devel optional hello_2.10.orig.tar.gz
+ 9fceb5964ab235aef5531afd52e17f49 7516 devel optional hello_2.10-2ubuntu5.debian.tar.xz
+ 0803e02a6400a3966f930b2e21045c91 6548 devel optional hello_2.10-2ubuntu5_source.buildinfo
+Original-Maintainer: Santiago Vila <sanvila@debian.org>
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHOBAEBCgA4FiEEYru2u7pzPJLCN/ui9ISHkpYkaNkFAmagnAwaHGZhaXJ5dGFp
+bDg3MTIwMkBnbWFpbC5jb20ACgkQ9ISHkpYkaNlw4AwApSRXSko4W79C877ACqHH
+HamzSYMIvdd1Wx6HcsJu6jBpJxLf3OqVcd//mLSGgNFGIB1sxRnMCg4aU8lKgQ95
+1meq0LBEETpNjOnhdH5YsuzVMDD1+EbW7UjVqWnFaMxPPEa/n6meT198ypbOHgqF
+MQRglXKB5lWphIwEiTmgSU/sa21T5NLAhhnTGaFb/W7MKvtbN2ZJSDBIZik/yFnn
+UotLHfVMpBayXyAtOCvkjX4FN1VuhRFJU+DHuvI+sObZcrFSHyqErHQ1bdAS+tXg
+zwUwNpHAsj0eMA8x256T9SyBDqfmzP++g/35wOwhZXKz81KrW891IbCldaYGQLJY
+7w2RcZkSuudrLNN5THqCvESNwgBzbswRNzCbcjRGr0qgAVeXZz299uEM1qBbljN9
+t1Scc5GCAQ+tL2fVTUF9Nv8ZiGzS6yrV/O19n2ZOZNUJEYKCjnWB6I7eUqY/N+Tx
+yLoezJHCrjB7WUAF6acfFLxL4yG5ACPzhSfY3yVknMrd
+=T05E
+-----END PGP SIGNATURE-----
